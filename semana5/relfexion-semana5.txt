@@ -1,0 +1,9 @@
+Las APIs pueden ayudar a las comunidades a compartir información de manera rápida y organizada. 
+Permiten que diferentes aplicaciones intercambien datos de forma automática. 
+Por ejemplo, los ciudadanos pueden enviar reportes sobre problemas en su barrio mediante una aplicación. 
+Estos reportes pueden almacenarse y consultarse desde diferentes plataformas. 
+Las APIs también facilitan el envío de alertas sobre emergencias o eventos importantes. 
+Gracias a ellas, la información llega a más personas de manera eficiente. 
+Además, ayudan a mantener los datos actualizados en tiempo real. 
+Esto mejora la comunicación entre los ciudadanos y las organizaciones comunitarias. 
+De esta forma, se pueden tomar decisiones más rápidas y basadas en información confiable.

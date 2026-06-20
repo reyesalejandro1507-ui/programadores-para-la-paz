@@ -1,0 +1,11 @@
+Pruebas realizadas
+
+1. [http://localhost:3000](http://localhost:3000)
+   Al acceder a esta ruta, el servidor responde con el mensaje: "Servidor activo". Esto indica que el servidor está funcionando correctamente.
+
+2. [http://localhost:3000/saludo](http://localhost:3000/saludo)
+   Al ingresar a esta ruta, el servidor muestra el mensaje: "Hola comunidad".
+
+3. [http://localhost:3000/mensaje/juan](http://localhost:3000/mensaje/juan)
+   Al acceder a esta ruta, el servidor toma el nombre enviado en la URL y responde con el mensaje: "Hola juan". 
+   Esta ruta es dinámica porque puede mostrar diferentes nombres según el valor que se escriba después de `/mensaje/`.
