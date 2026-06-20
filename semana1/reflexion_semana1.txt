@@ -1,0 +1,10 @@
+El uso responsable de la información en internet es fundamental para garantizar que los datos compartidos sean verídicos, seguros y respetuosos con los derechos de los demás. 
+Cuando las personas verifican las fuentes y utilizan la información de manera ética, contribuyen a una mejor participación ciudadana y a la construcción de una sociedad más informada. 
+La participación ciudadana permite que los individuos expresen sus opiniones, colaboren en la solución de problemas y formen parte activa de las decisiones que afectan a su comunidad. 
+De manera similar, en el ámbito tecnológico, herramientas como Git facilitan la organización del trabajo en equipo mediante el control de versiones y el seguimiento de cambios en los proyectos. 
+Gracias a Git, varios desarrolladores pueden colaborar de forma ordenada y eficiente sin perder información importante. 
+Tanto en internet como en los proyectos técnicos, la responsabilidad y la transparencia son aspectos esenciales. 
+Además, el respeto por las normas y la correcta gestión de la información fortalecen la confianza entre los participantes. 
+Estas prácticas ayudan a mejorar la calidad de los resultados obtenidos y fomentan un ambiente de colaboración. 
+Por ello, el uso responsable de la información, la participación ciudadana y la organización del trabajo técnico están estrechamente relacionados. 
+Todos contribuyen al desarrollo de comunidades y proyectos más eficientes, seguros y colaborativos.
