@@ -1,0 +1,4 @@
+{
+  "tipo": "Daño en vía pública",
+  "descripcion": "Se presenta un hueco de gran tamaño en la calle principal del barrio, lo que dificulta el tránsito de vehículos y peatones."
+}

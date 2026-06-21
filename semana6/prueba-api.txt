@@ -1,0 +1,3 @@
+Se realizó una petición POST a la ruta http://localhost:3000/registro enviando un objeto JSON con el nombre "Maria" y el mensaje "Hola comunidad". 
+El servidor procesó correctamente la solicitud, extrajo los datos recibidos y devolvió una respuesta en formato JSON confirmando que la información fue recibida exitosamente. 
+En la respuesta se muestran el estado de la operación junto con los mismos datos enviados por el usuario, lo que permite verificar que la API está funcionando correctamente y que puede recibir y devolver información de manera organizada.
