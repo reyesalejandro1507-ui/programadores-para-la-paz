@@ -1,0 +1,4 @@
+Primero se realizó una petición POST a la ruta enviando un reporte con el tipo "Infraestructura" y la descripción "Daño en alumbrado público". 
+El servidor recibió la información y la registró correctamente. Luego, al realizar una petición GET a la misma ruta, el servidor devolvió la lista 
+de reportes almacenados, incluyendo el reporte que se había enviado previamente. 
+Esto demuestra que la aplicación puede recibir información, guardarla temporalmente y consultarla posteriormente mediante una solicitud GET.

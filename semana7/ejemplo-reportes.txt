@@ -1,0 +1,9 @@
+{
+  "tipo": "Seguridad",
+  "descripcion": "Se reporta una luminaria dañada en el parque del barrio, lo que genera poca visibilidad durante la noche."
+}
+
+{
+  "tipo": "Ambiente",
+  "descripcion": "Acumulación de residuos en una zona comunitaria que genera malos olores y afecta a los vecinos."
+}
