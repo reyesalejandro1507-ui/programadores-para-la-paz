@@ -1,0 +1,8 @@
+uname -a:
+Muestra información detallada del sistema operativo, incluyendo el nombre del sistema, la versión del kernel, la arquitectura del procesador y otros datos del equipo.
+
+whoami:
+Muestra el nombre del usuario que está utilizando la sesión actual en el sistema.
+
+¿Por qué es útil conocer información del sistema cuando se administra un servidor?
+Porque permite identificar el sistema operativo y el usuario con el que se están ejecutando los comandos, facilitando la configuración, el mantenimiento, la solución de problemas y la administración segura del servidor.
